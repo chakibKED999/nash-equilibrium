@@ -1,0 +1,4 @@
+# Pile ou face (matching pennies) : aucun équilibre de Nash pur
+2 2
+(1, -1) (-1, 1)
+(-1, 1) (1, -1)

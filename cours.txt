@@ -1,0 +1,6 @@
+# Exemple du sujet (section 3) : 2 équilibres de Nash, dont un dominé au sens de Pareto
+4 4
+(26, 10) (10, 2) (30, 8) (14, 0)
+(2, 2)   (2, 2)  (22, 8) (22, 8)
+(24, 8)  (8, 0)  (28, 8) (8, 2)
+(4, 0)   (0, 10) (20, 8) (16, 10)

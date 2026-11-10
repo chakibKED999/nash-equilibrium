@@ -1,0 +1,6 @@
+# Jeu 3x2 avec gains décimaux (séparateur décimal = point)
+# Les parenthèses sont facultatives : seule compte la suite des nombres.
+3 2
+1.5 0     4 1.25
+3 2       2 3
+0 1       1 0.5

@@ -1,0 +1,4 @@
+# Dilemme du prisonnier : A1/B1 = coopérer, A2/B2 = trahir
+2 2
+(3, 3) (0, 5)
+(5, 0) (1, 1)
